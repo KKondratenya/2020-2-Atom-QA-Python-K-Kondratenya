@@ -6,17 +6,7 @@ GET 122095
 HEAD 528
 PUT 6
 Top 10 requests with the longest content length
-https://www.google.com/ 200 192
-https://www.google.com/ 200 192
-https://www.google.com/ 200 192
-https://www.google.com/ 200 192
-https://www.google.com/ 200 192
-https://www.google.com/ 200 192
-https://www.google.com/ 200 192
-http://www.almhuette-raith.at/ 200 26570
-https://www.google.de/ 200 59
-https://gist.github.com/ 200 45
-Top 10 requests with client error
+https://www.google.com/ 200 192nhttps://www.google.com/ 200 192nhttps://www.google.com/ 200 192nhttps://www.google.com/ 200 192nhttps://www.google.com/ 200 192nhttps://www.google.com/ 200 192nhttps://www.google.com/ 200 192nhttp://www.almhuette-raith.at/ 200 26570nhttps://www.google.de/ 200 59nhttps://gist.github.com/ 200 45nTop 10 requests with client error
 http://almhuette-raith.at/administrator/index.php 404 8.37.235.57
 http://www.almhuette-raith.at/ 404 212.95.7.22
 http://www.almhuette-raith.at/ 404 213.90.80.246
