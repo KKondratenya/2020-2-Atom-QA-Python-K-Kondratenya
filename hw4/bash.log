@@ -1,0 +1,38 @@
+Number of requests
+225133
+Number of requests type
+ 122095 GET
+    528 HEAD
+ 102503 POST
+      6 PUT
+Top 10 requests with the longest content length
+https://www.google.com/ 200 192
+https://www.google.com/ 200 192
+https://www.google.com/ 200 192
+https://www.google.com/ 200 192
+https://www.google.com/ 200 192
+https://www.google.com/ 200 192
+https://www.google.com/ 200 192
+http://www.almhuette-raith.at/ 200 26570
+https://www.google.de/ 200 59
+https://gist.github.com/ 200 45
+Top 10 requests with client error
+http://almhuette-raith.at/administrator/index.php 404 8.37.235.57
+http://www.almhuette-raith.at/ 412 180.253.159.254
+http://www.almhuette-raith.at/ 412 36.72.187.12
+http://www.almhuette-raith.at/ 404 95.91.227.20
+http://www.almhuette-raith.at/ 404 95.91.227.20
+http://www.almhuette-raith.at/ 404 95.91.227.20
+http://www.almhuette-raith.at/ 404 95.91.227.20
+http://www.almhuette-raith.at/ 404 95.91.227.20
+http://www.almhuette-raith.at/ 404 95.90.222.200
+http://www.almhuette-raith.at/ 404 95.84.129.159
+Top 10 requests with server error
+http://almhuette-raith.at/administrator/index.php 500 91.210.145.36
+http://almhuette-raith.at/administrator/index.php 500 91.210.145.36
+http://almhuette-raith.at/administrator/index.php 500 91.210.145.36
+http://www.almhuette-raith.at/ 500 101.226.167.209
+http://www.almhuette-raith.at/ 500 5.8.37.237
+http://almhuette-raith.at/index.php/component/users/?view=login 500 94.240.210.233
+http://almhuette-raith.at/index.php/component/users/?view=login 500 88.200.137.246
+http://almhuette-raith.at/index.php/component/users/?view=login 500 85.117.127.105
